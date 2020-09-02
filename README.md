@@ -2,10 +2,10 @@
 
 ### Hi there I'm John 👋
 
-[<img width="30" height="30" src="./assets/internet.svg">](https://johnafolabi.com)
-[<img width="30" height="30" src="./assets/mail.svg">](mailto:johnafolabi.da@gmail.com)
-[<img width="30" height="30" src="./assets/linkedin.svg">](https://www.linkedin.com/in/john-afolabi/)
-[<img width="30" height="30" src="./assets/twitter.svg">](https://twitter.com/_john_afolabi)
+[<img width="30" height="30" src="https://raw.githubusercontent.com/john-afolabi/john-afolabi/master/assets/internet.svg">](https://johnafolabi.com)
+[<img width="30" height="30" src="https://raw.githubusercontent.com/john-afolabi/john-afolabi/master/assets/mail.svg">](mailto:johnafolabi.da@gmail.com)
+[<img width="30" height="30" src="https://raw.githubusercontent.com/john-afolabi/john-afolabi/master/assets/linkedin.svg">](https://www.linkedin.com/in/john-afolabi/)
+[<img width="30" height="30" src="https://raw.githubusercontent.com/john-afolabi/john-afolabi/master/assets/twitter.svg">](https://twitter.com/_john_afolabi)
 
 </p>
 
