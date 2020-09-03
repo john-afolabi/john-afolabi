@@ -14,7 +14,7 @@ I'm a Frontend Engineer, with a prior career working in Digital Media/SEO for a 
 -   🌱 I’m currently learning TypeScript
 -   👯 I’m looking to collaborate on Open Source Projects
 -   💬 Ask me about: On-Page SEO, Website performance, ReactJS
--   ⚡ Fun fact: I play CODM competitively 🎮
+-   ⚡ Fun fact: I really love cookingU
 
 <p style="text-align: center;">
 
