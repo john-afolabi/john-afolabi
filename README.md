@@ -1,6 +1,5 @@
 <h2 align="center">Hi there I'm John 👋</h2>
 
-<hr>
 <p align="center" style="display: flex; align-items: center">
 <a href="https://johnafolabi.com">
     <img
