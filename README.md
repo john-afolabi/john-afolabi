@@ -3,33 +3,25 @@
 <p align="center" valign="middle">
 <a href="https://johnafolabi.com">
     <img
-        width="30"
-        height="30"
-        src="https://raw.githubusercontent.com/john-afolabi/john-afolabi/master/assets/internet.svg"
+        src="https://raw.githubusercontent.com/john-afolabi/john-afolabi/test/assets/internet.png"
         alt="website"
     />
 </a>
 <a href="mailto:johnafolabi.da@gmail.com">
     <img
-        width="30"
-        height="30"
-        src="https://raw.githubusercontent.com/john-afolabi/john-afolabi/master/assets/mail.svg"
+        src="https://raw.githubusercontent.com/john-afolabi/john-afolabi/test/assets/mail.png"
         alt="email"
     />
 </a>
 <a href="https://www.linkedin.com/in/john-afolabi/">
     <img
-        width="30"
-        height="30"
-        src="https://raw.githubusercontent.com/john-afolabi/john-afolabi/master/assets/linkedin.svg"
+        src="https://raw.githubusercontent.com/john-afolabi/john-afolabi/test/assets/linkedin.png"
         alt="linkedin"
     />
 </a>
 <a href="https://twitter.com/_john_afolabi">
     <img
-        width="30"
-        height="30"
-        src="https://raw.githubusercontent.com/john-afolabi/john-afolabi/master/assets/twitter.svg"
+        src="https://raw.githubusercontent.com/john-afolabi/john-afolabi/test/assets/twitter.png"
         alt="twitter"
     />
 </a>
