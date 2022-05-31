@@ -28,12 +28,7 @@
 </p>
 <hr>
 
-I'm a Frontend Engineer, with a prior career working in Digital Media/SEO for a major media company in Nigeria. I'm passionate about web technologies and making the web accessible to everyone.
-
--   🌱 I’m currently learning TypeScript and Cloud technologies
--   👯 I’m looking to collaborate on Open Source Projects
--   💬 Ask me about On-Page SEO, Website performance, ReactJS
--   ⚡ Fun fact: I really love cooking
+...
 
 <br/>
 <p align="center">
